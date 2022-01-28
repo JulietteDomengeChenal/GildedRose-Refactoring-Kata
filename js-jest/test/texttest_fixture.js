@@ -1,5 +1,5 @@
-
 const { Shop, Item } = require("../src/gilded_rose");
+const process = require("../../../../12-CMS/wordpress/www/wp-includes/js/tinymce/wp-tinymce");
 
 const items = [
   new Item("+5 Dexterity Vest", 10, 20),
